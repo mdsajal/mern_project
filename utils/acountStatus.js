@@ -1,0 +1,6 @@
+module.exports = {
+	ACTIVE: 'ACTIVE',
+	PENDING: 'PENDING',
+	SUSPEND: 'SUSPEND',
+	DEACTIVE: 'DEACTIVE'
+};
